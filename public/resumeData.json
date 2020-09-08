@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Manu de Quevedo",
+    "occupation": "I'm a Software Engineer Analyst at PK",
+    "description": "Father, Web Developer Enthusiast, Entrepeneur",
+    "image": "Manu_de_Quevedo.jpeg",
+    "bio": "My name is Manu, I'm currently learning ReactJS with the amazing Clever Programmer team",
+    "contactmessage": "Have a project in mind? Reach out to me and let's talk about it.",
+    "email": "manudequevedo@gmail.com",
+    "phone": "+52 55 5500 0228",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Mexico",
+      "state": "MX",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ssssangha/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/manudequevedo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "UNITEC",
+        "degree": "Software Engineering Degree",
+        "graduated": "2022",
+        "description": "Still studying"
+      }
+    ],
+    "work": [
+      {
+        "company": "ProKarma",
+        "title": "Node JS Dev / Software Engineer Analyst",
+        "years": "September 2019 - Present",
+        "description": "Working for T-Mobile as Software Engineer Analyst."
+      },
+      {
+        "company": "Linio Mexico",
+        "title": "Web Analyst",
+        "years": "Nov 2017 - September 2019",
+        "description": "Working for the biggest E-Commerce company in the country."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
